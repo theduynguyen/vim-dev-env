@@ -35,6 +35,8 @@ Plugin 'jeffkreeftmeijer/vim-numbertoggle'
 Plugin 'Xuyuanp/nerdtree-git-plugin'
 Plugin 'jreybert/vimagit'
 Plugin 'tpope/vim-commentary'
+Plugin 'mhinz/vim-grepper'
+Plugin 'FooSoft/vim-argwrap'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
